@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"/> Languages and Tools
+<!-- ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"/> Languages and Tools -->
 
 <!-- <div id="header" align="center" style="padding-top:20px;">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="ReactJS" alt="ReactJS" width="50" height="50"/>&nbsp;
