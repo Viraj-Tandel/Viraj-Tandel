@@ -14,12 +14,18 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v2
 
-      - name: Update README with WakaTime Stats
-        uses: athul/waka-readme@master
+      - name: Setup WakaTime Stats
+        uses: athul/waka-readme@v2.1.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: "true" # Optional
+          TIME_RANGE: "last_7_days" # Optional
+          SHOW_MASKED_TIME: "false" # Optional
+          LANG_COUNT: "5" # Optional
+          SHOW_TIME: "true" # Optional
+          SHOW_TOTAL: "true" # Optional
+          STOP_AT_OTHER: "false" # Optional
 
       - name: Commit changes
         run: |
