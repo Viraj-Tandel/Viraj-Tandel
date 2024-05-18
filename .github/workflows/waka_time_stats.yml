@@ -1,36 +1,16 @@
-name: Update README with WakaTime Stats
+name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs every 24 hours at midnight UTC
-  push:
-    branches:
-      - main
+    # Runs every 2 hours
+    - cron: "0 * * * *"
 
 jobs:
   update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v2
-
-      - name: Setup WakaTime Stats
-        uses: athul/waka-readme@v2.1.1
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: "true" # Optional
-          TIME_RANGE: "last_7_days" # Optional
-          SHOW_MASKED_TIME: "false" # Optional
-          LANG_COUNT: "5" # Optional
-          SHOW_TIME: "true" # Optional
-          SHOW_TOTAL: "true" # Optional
-          STOP_AT_OTHER: "false" # Optional
-
-      - name: Commit changes
-        run: |
-          git config --global user.name 'your-github-username'
-          git config --global user.email 'your-email@example.com'
-          git add README.md
-          git commit -m 'Update README with WakaTime stats'
-          git push
