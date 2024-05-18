@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: "waka_fd460c27-c41b-444e-80af-25b16dbb2bbb"
+          GH_TOKEN: "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"
           REPOSITORY: "Viraj-Tandel/Viraj-Tandel"
           SHOW_TITLE: "false"
           SECTION_NAME: "waka"
