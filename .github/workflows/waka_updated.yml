@@ -18,7 +18,7 @@ jobs:
         uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: "waka_fd460c27-c41b-444e-80af-25b16dbb2bbb"
-          GH_TOKEN: "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"
+          GH_TOKEN: "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"
           API_BASE_URL: "https://wakatime.com/api"
           REPOSITORY: "Viraj-Tandel/Viraj-Tandel"
           SHOW_TITLE: "false"
