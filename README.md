@@ -35,7 +35,8 @@ const viraj = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         4 mins          █████████████████████░░░░   84.43 %
+JavaScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
 ```
 
 <!--END_SECTION:waka-->
