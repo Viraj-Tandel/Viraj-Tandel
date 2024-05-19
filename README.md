@@ -35,7 +35,11 @@ const anmol = {
 ---
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 17 May 2024 - To: 18 May 2024
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
