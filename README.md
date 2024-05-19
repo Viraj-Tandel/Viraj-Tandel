@@ -45,4 +45,4 @@ No activity tracked
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viraj-Tandel&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viraj-Tandel&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viraj-Tandel&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viraj-Tandel&theme=2077&utcOffset=5.30)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Viraj-Tandel/Viraj-Tandel/blob/output/github-contribution-grid-snake.gif)
