@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const viraj = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Angular", "React"],
     askMeAbout: ["web dev","photography", "Fitness Freak", "Sports Payer"],
@@ -44,3 +44,5 @@ No activity tracked
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viraj-Tandel&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viraj-Tandel&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viraj-Tandel&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viraj-Tandel&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viraj-Tandel&theme=2077&utcOffset=5.30)
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
