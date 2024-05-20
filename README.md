@@ -35,8 +35,11 @@ const viraj = {
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         4 mins          █████████████████████░░░░   84.43 %
-JavaScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+JavaScript       1 hr 34 mins    ███████████████████░░░░░░   76.25 %
+HTML             26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+TypeScript       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+CSS              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
