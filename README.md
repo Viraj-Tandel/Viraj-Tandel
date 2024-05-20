@@ -34,7 +34,11 @@ const viraj = {
 ---
 <!--START_SECTION:waka-->
 
-```txt
+```javascript
+From: 17 May 2024 - To: 18 May 2024
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
