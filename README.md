@@ -35,15 +35,16 @@ const viraj = {
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-Total Time: 2 hrs 3 mins
+Total Time: 6 hrs 48 mins
 
-JavaScript       1 hr 34 mins    >>>>>>>>>>>>>>>>>>>------   76.25 %
-HTML             26 mins         >>>>>--------------------   21.26 %
-TypeScript       2 mins          -------------------------   01.62 %
-CSS              0 secs          -------------------------   00.79 %
-GitIgnore file   0 secs          -------------------------   00.08 %
+JavaScript       4 hrs 10 mins   >>>>>>>>>>>>>>>----------   61.29 %
+HTML             58 mins         >>>>---------------------   14.25 %
+TypeScript       53 mins         >>>----------------------   13.00 %
+JSON             28 mins         >>-----------------------   07.07 %
+CSS              17 mins         >------------------------   04.29 %
+Other            0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
