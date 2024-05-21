@@ -35,7 +35,7 @@ const viraj = {
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 17 May 2024 - To: 20 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
 Total Time: 2 hrs 3 mins
 
