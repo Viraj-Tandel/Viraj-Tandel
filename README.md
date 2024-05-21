@@ -7,8 +7,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/intent/follow?screen_name=viraj_tandel03)
 [![Linkedin: viraj](https://img.shields.io/badge/-viraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/viraj-tandel-627494155/)
 ![GitHub followers](https://img.shields.io/github/followers/Viraj-Tandel?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -32,7 +30,7 @@ const viraj = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <h4>Coding Stat's</h4>
----
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2048%20mins-blue)
 
@@ -116,5 +114,6 @@ JavaScript               2 repos             ██████░░░░░�
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viraj-Tandel&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viraj-Tandel&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viraj-Tandel&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viraj-Tandel&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viraj-Tandel&theme=2077&utcOffset=5.30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viraj-Tandel&theme=2077&utcOffset=5.30)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viraj-Tandel&theme=2077)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viraj-Tandel&theme=2077) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viraj-Tandel&theme=2077) -->
