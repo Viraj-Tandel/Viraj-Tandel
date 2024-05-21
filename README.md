@@ -35,11 +35,12 @@ const viraj = {
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 17 May 2024 - To: 18 May 2024
+From: 17 May 2024 - To: 19 May 2024
 
-Total Time: 0 secs
+Total Time: 5 mins
 
-No activity tracked
+HTML         4 mins          >>>>>>>>>>>>>>>>>>>>>----   84.43 %
+JavaScript   0 secs          >>>>---------------------   15.57 %
 ```
 
 <!--END_SECTION:waka-->
