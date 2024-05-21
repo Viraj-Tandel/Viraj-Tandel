@@ -17,5 +17,5 @@ jobs:
           GH_TOKEN: ${{ secrets.USER_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
           LOCALE: "en"
