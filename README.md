@@ -105,8 +105,9 @@ JavaScript               2 repos             ██████░░░░░�
  Last Updated on 23/05/2024 18:48:52 UTC
 <!--END_SECTION:waka-->
 
-
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viraj-Tandel&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viraj-Tandel&theme=2077&utcOffset=5.30)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viraj-Tandel&theme=2077)
+-->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viraj-Tandel&theme=2077) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viraj-Tandel&theme=2077) -->
