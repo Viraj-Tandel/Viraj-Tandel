@@ -32,7 +32,7 @@ const viraj = {
 <h4>Coding Stat's</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -97,7 +97,7 @@ HTML                     3 repos             ██████░░░░░�
 
 
 
- Last Updated on 31/07/2024 00:36:48 UTC
+ Last Updated on 01/08/2024 00:49:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
