@@ -32,8 +32,6 @@ const viraj = {
 <h4>Coding Stat's</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.1%20thousand%20lines%20of%20code-blue)
@@ -42,50 +40,12 @@ const viraj = {
 
 > 📦 3.1 kB Used in GitHub's Storage 
  > 
-> 🏆 393 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-🌆 Daytime                251 commits         ██████████████░░░░░░░░░░░   56.15 % 
-🌃 Evening                115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   121 commits         ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-Tuesday                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Wednesday                131 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Friday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Saturday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Sunday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    34 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   34 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -97,7 +57,7 @@ HTML                     3 repos             ██████░░░░░�
 
 
 
- Last Updated on 08/09/2024 00:52:43 UTC
+ Last Updated on 09/09/2024 00:50:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
