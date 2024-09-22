@@ -32,7 +32,7 @@ const viraj = {
 <h4>Coding Stat's</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,8 +41,6 @@ const viraj = {
 **🐱 My GitHub Data** 
 
 > 📦 3.2 kB Used in GitHub's Storage 
- > 
-> 🏆 393 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +95,7 @@ HTML                     3 repos             ██████░░░░░�
 
 
 
- Last Updated on 21/09/2024 00:48:02 UTC
+ Last Updated on 22/09/2024 00:54:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
