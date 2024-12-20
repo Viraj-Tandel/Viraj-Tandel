@@ -32,7 +32,7 @@ const viraj = {
 <h4>Coding Stat's</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,14 +77,14 @@ Sunday                   35 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 14 mins       █████████████████████████   98.13 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other                    3 hrs 3 mins        █████████████████████████   98.02 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 18 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +98,7 @@ HTML                     3 repos             ██████░░░░░�
 
 
 
- Last Updated on 19/12/2024 00:54:52 UTC
+ Last Updated on 20/12/2024 00:52:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
