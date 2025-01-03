@@ -40,7 +40,7 @@ const viraj = {
 
 **🐱 My GitHub Data** 
 
-> 📦 3.2 kB Used in GitHub's Storage 
+> 📦 3.1 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -77,13 +77,13 @@ Sunday                   35 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +97,7 @@ HTML                     3 repos             ██████░░░░░�
 
 
 
- Last Updated on 02/01/2025 00:51:28 UTC
+ Last Updated on 03/01/2025 00:52:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
